@@ -8,6 +8,11 @@ public class Employee {
 
 	public void sub() {
 		System.out.println("sub");
+
+	}
+
+	public void div() {
+		System.out.println("div");
 	}
 
 	public static void main(String[] args) {
