@@ -6,6 +6,10 @@ public class Employee {
 		System.out.println("add");
 	}
 
+	public void sub() {
+		System.out.println("sub");
+	}
+
 	public static void main(String[] args) {
 
 		Employee e = new Employee();
